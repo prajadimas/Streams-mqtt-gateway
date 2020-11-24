@@ -10,5 +10,6 @@
     "topic": "iot2tangle",
     "node": "https://nodes.iota.cafe:443",
     "mwm": 14,
-    "local_pow": false
+    "local_pow": false,
+    "pool": "<some_route_to_channel_pooling>"
 }
